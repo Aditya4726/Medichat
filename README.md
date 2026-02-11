@@ -35,6 +35,15 @@ The goal of MediChat is to make basic healthcare guidance accessible to everyone
 <li>Multilingual support for global reach</li>
 </ul>
 
+<h2>📸 App Preview</h2>
+
+<p align="center">
+  <img src="Screenshot 2025-11-07 044904.png" width="700"/><br><br>
+  <img src="Screenshot 2025-11-07 044942.png" width="700"/><br><br>
+  <img src="Screenshot 2025-11-07 045006.png" width="700"/><br><br>
+  <img src="Screenshot 2025-11-07 104422.png" width="700"/>
+</p>
+
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
