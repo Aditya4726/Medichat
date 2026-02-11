@@ -1,12 +1,12 @@
-#🏥 MediChat – AI Multilingual Health Assistant
+<h1>🏥 MediChat – AI Multilingual Health Assistant</h1>
 
-MediChat is an AI-powered multilingual health assistant designed to provide instant medical guidance, symptom understanding, medication information, home remedies, and first-aid tips in 30+ languages.
+<p>MediChat is an AI-powered multilingual health assistant designed to provide instant medical guidance, symptom understanding, medication information, home remedies, and first-aid tips in 30+ languages.
 
-Built with modern AI technologies, MediChat brings accessible, reliable, and user-friendly healthcare support to people worldwide.
+Built with modern AI technologies, MediChat brings accessible, reliable, and user-friendly healthcare support to people worldwide.</p>
 
+<br>
 
-
-🌍 Features:==>
+<h1>🌍 Features:==></h1>
 
 🧠 AI-based symptom guidance
 
@@ -22,6 +22,8 @@ Built with modern AI technologies, MediChat brings accessible, reliable, and use
 
 ⚡ Instant responses in real-time
 
+<br>
+
 
 Objective
 
@@ -33,7 +35,7 @@ Safe first-level medical advice
 
 Multilingual support for global reach
 
-
+<br>
 
 🛠️ Tech Stack
 
@@ -44,6 +46,7 @@ Backend: Node.js
 AI Engine: Inbuit LLM online source
 
 Database: MongoDB 
+<br>
 
 📦 Installation===>
 
@@ -60,14 +63,14 @@ npm install
 ...........................
 
 3...........................
-npm run dev
+<code>npm run dev</code>
 ...........................
 
 4.Backend=>>>..............
 
 node server.js
 ..........................
-
+<br>
 
 Easy to make for the colledge students
 
