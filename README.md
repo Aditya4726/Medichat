@@ -1,4 +1,4 @@
-🏥 MediChat – AI Multilingual Health Assistant
+#🏥 MediChat – AI Multilingual Health Assistant
 
 MediChat is an AI-powered multilingual health assistant designed to provide instant medical guidance, symptom understanding, medication information, home remedies, and first-aid tips in 30+ languages.
 
@@ -67,6 +67,9 @@ npm run dev
 
 node server.js
 ..........................
+
+
+Easy to make for the colledge students
 
 🚀 Future Enhancements
 
