@@ -114,5 +114,6 @@ This project is simple to understand, easy to build, and perfect for:
 <hr>
 
 <p align="center">
+ <b> Any query contact in the email  <code>adityasamanta2005@gmail.com</code></b>
 ⭐ If you like this project, consider giving it a star on GitHub!
 </p>
