@@ -68,7 +68,7 @@ cd MediChat</code></pre>
 
 <h3>3️⃣ Run Frontend</h3>
 
-pre><code>cd medichat</code></pre>
+<pre><code>cd medichat</code></pre>
 <pre><code>npm install</code></pre>
 <pre><code>npm run dev</code></pre>
 
