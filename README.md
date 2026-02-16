@@ -64,16 +64,18 @@ The goal of MediChat is to make basic healthcare guidance accessible to everyone
 <pre><code>git clone https://github.com/your-username/MediChat.git
 cd MediChat</code></pre>
 
-<h3>2️⃣ Install Dependencies</h3>
-
-<pre><code>npm install</code></pre>
+<h2>Backend and Frontend devide into two part both have two different medichat file</h2>
 
 <h3>3️⃣ Run Frontend</h3>
 
+pre><code>cd medichat</code></pre>
+<pre><code>npm install</code></pre>
 <pre><code>npm run dev</code></pre>
 
 <h3>4️⃣ Run Backend</h3>
 
+<pre><code>cd medichat</code></pre>
+<pre><code>npm install</code></pre>
 <pre><code>node server.js</code></pre>
 
 <hr>
